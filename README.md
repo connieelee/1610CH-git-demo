@@ -23,7 +23,7 @@ List of useful commands:
 - add
 - commit
 - merge
-(- fetch)
+- fetch
 
 ----
 
