@@ -9,8 +9,8 @@ Quick recap:
   * When checking out from a branch, remember to set the correct base (instead of master)!
 - Make your modifications, and commit at regular intervals
 - When you're done with the feature, push and open a pull request (PR)
-- A team member (or more realistically in the real world, a senior/manager) should review your code
-- If all looks good, it will be merge into master (ideally, you wouldn't be merging your own PRs)
+- A team member (or more realistically in the working world, a senior/manager) should review your code
+- If all looks good, it will be merged into master (in principle, you shouldn't be merging your own PRs)
 
 In case of merge conflicts... PANIC!
 No, don't panic! Github has a great new interface that makes it easy now!
